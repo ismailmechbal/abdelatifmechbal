@@ -2,12 +2,12 @@
 layout: default
 ---
 <article class="post">
-  <h1 class="f3 fw6 pb0 lh-copy">{{ page.title }}</h1>
-  <span class="f6 fw6 dib">نشر بتاريخ <span class="ph1"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y-%m-%d' }}</time></span></span>
-  <div class="pv4 lh-copy">{{ content }}</div>
+  <h1 class="f5 f3-ns fw6 pb0 lh-copy">{{ page.title }}</h1>
+  <span class="f7 f6-ns fw6-ns dib">نشر بتاريخ <span class="ph1"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y-%m-%d' }}</time></span></span>
+  <div class="pv4 f6 f5-ns lh-copy">{{ content }}</div>
   <div class="pv4 tc">
-    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="شارك على الفيس بوك" class="link blue dim ph3">شارك على الفيس بوك</a>
-    <a class="link blue dim ph3" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}" target="_blank">شارك على تويتر</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="شارك على الفيس بوك" class="link blue dim ph3 f7 f5-ns">شارك على الفيس بوك</a>
+    <a class="link blue dim ph3 f7 f5-ns" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}" target="_blank">شارك على تويتر</a>
   </div>
-  <a href="/" title="Back to all articles" class="db link blue dim">← الرجوع إلى جميع المقالات</a></div>
+  <a href="/" title="Back to all articles" class="db link blue dim f7 f5-ns">← الرجوع إلى جميع المقالات</a></div>
 </article>

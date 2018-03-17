@@ -16,7 +16,7 @@ layout: default
         <section class="post-excerpt" itemprop="description">
           <p class="f6">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
         </section>
-        <div class="f6 fw6 dib">
+        <div class="f7 f6-ns dib">
           نشر بتاريخ <span class="ph1"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%Y-%m-%d' }}</time>
         </div>
       </article>
