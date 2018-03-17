@@ -1,21 +1,26 @@
-<!doctype html>
-<html class="no-js">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Abdelatif Mechbal</title>
-<meta name="description" content="Abdelatif Mechbal - un nom, une passion, des valeurs">
-<meta name="viewport" content="width=device-width">
-<style>
-  body {background: #fafafa;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#aaaaaa;}
-  .hero-unit { margin:50px auto 0 auto;display:table;font-size:18px;font-weight:200;line-height:30px;border-radius:6px;padding:60px;max-width:600px;}
-  .hero-unit h1 {font-size:30px;line-height:1.2;letter-spacing:-1px;}
-</style>
-</head>
-<body>
-<div class="hero-unit">
-<h1>Abdelatif Mechbal</h1>
-<h3>Un nom, une passion, des valeurs</h3>
-</div>
-</body>
-</html>
+---
+layout: default
+---
+<main role="main">
+  <header>
+    <h6 class="f2 pa0 ma0">مقالات</h1>
+  </header>
+  <div class="pv3">
+    {% for post in paginator.posts %}
+      <article  class="pv3 bb b--near-white" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+        <header>
+          <h2 class="f5" itemprop="name">
+            <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url" class="link blue dim fw4" title="{{ post.title }}">{{ post.title }}</a>
+          </h2>
+        </header>
+        <section class="post-excerpt" itemprop="description">
+          <p class="f6">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+        </section>
+        <div class="f6 fw6 dib">
+          نشر بتاريخ <span class="ph1"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%Y-%m-%d' }}</time>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</main>
+{% include footer.html %}

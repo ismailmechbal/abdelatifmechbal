@@ -1,0 +1,25 @@
+title: موقع عبد اللطيف مشبال
+email: abdelatifmechbal@gmail.com
+description: موقع على الانترنت أشارك فيه بعض مقالاتي
+logo: "/assets/images/logo.jpg"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.abdelatifmechbal.com"
+paginate:	1000
+
+collections:
+  posts:
+    permalink: /:title.html
+
+
+# Google Analytics
+analytics_id: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
