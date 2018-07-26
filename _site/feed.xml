@@ -3,10 +3,10 @@
   <channel>
     <title>موقع عبد اللطيف مشبال</title>
     <description>موقع على الانترنت أشارك فيه بعض مقالاتي</description>
-    <link>http://localhost:4500/</link>
-    <atom:link href="http://localhost:4500/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Jul 2018 08:27:08 +0200</pubDate>
-    <lastBuildDate>Thu, 26 Jul 2018 08:27:08 +0200</lastBuildDate>
+    <link>http://localhost:4600/</link>
+    <atom:link href="http://localhost:4600/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 26 Jul 2018 19:24:28 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Jul 2018 19:24:28 +0200</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -20,10 +20,12 @@
 &lt;p&gt;الغريب انه وبعد كل النضالات التي قدمها شهداء القضية الفلسطينية في مواجهة العدو الاسرائيلي،والالتحام المبكر ألذي جسمته الشعوب العربية مع هذه القضية المقدسة  التي تجسمت بكل تواضع وفي ندر يسير في الوصل المذكور، في لحظة جنينية، والتضحيات الجسام والدماء الطاهرة التي سالت في سبيل نصرة الشعب الفلسطيني،، يبرز من الصفوف من يحاول تغيير اتجاه هذا النضال ،، باختلاق خرافة ان العدو هو ايران ،، تحت شتي الذرائع التافهة، تنفيذا لتعليمات سيد البيت الأبيض المهزوز أركانه بالعواصف القوية التي لن تلبث طويلا حتي تقتلعه من مكانه،، وتقتلع ايضا سفارته من قدسنا،،&lt;/p&gt;
 
 &lt;p&gt;عبد اللطيف مشبال&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/donation-palestine-mechbal.jpg&quot; alt=&quot;الوصل والقضية الفلسطينية&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Jul 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D8%A7%D9%84%D9%88%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D8%A7%D9%84%D9%88%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.html</guid>
+        <link>http://localhost:4600/%D8%A7%D9%84%D9%88%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D8%A7%D9%84%D9%88%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.html</guid>
         
         
       </item>
@@ -46,8 +48,8 @@
 &lt;p&gt;عبد اللطيف مشبال&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D9%94%D9%8A%D8%A9-%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D9%94%D9%8A%D8%A9-%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.html</guid>
+        <link>http://localhost:4600/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D9%94%D9%8A%D8%A9-%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D9%94%D9%8A%D8%A9-%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.html</guid>
         
         
       </item>
@@ -78,8 +80,8 @@
 &lt;p&gt;عبد اللطيف مشبال&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D8%AA%D8%B1%D8%A7%D9%85%D9%88%D8%A7%D9%8A-%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D9%88%D9%85%D8%B3%D9%88%D9%94%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%8A%D8%AF%D8%A9.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D8%AA%D8%B1%D8%A7%D9%85%D9%88%D8%A7%D9%8A-%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D9%88%D9%85%D8%B3%D9%88%D9%94%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%8A%D8%AF%D8%A9.html</guid>
+        <link>http://localhost:4600/%D8%AA%D8%B1%D8%A7%D9%85%D9%88%D8%A7%D9%8A-%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D9%88%D9%85%D8%B3%D9%88%D9%94%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%8A%D8%AF%D8%A9.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D8%AA%D8%B1%D8%A7%D9%85%D9%88%D8%A7%D9%8A-%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D9%88%D9%85%D8%B3%D9%88%D9%94%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%8A%D8%AF%D8%A9.html</guid>
         
         
       </item>
@@ -102,8 +104,8 @@
 &lt;p&gt;عبد اللطيف مشبال&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Jun 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D8%AA%D9%86%D9%87%D8%B6-%D8%A8%D8%B1%D9%88%D8%A8%D8%A7%D8%BA%D9%86%D8%AF%D8%A7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%AA%D9%85%D9%88%D9%82%D8%B9%D9%87-%D8%B9%D9%84%D9%8A-%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D8%A9.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D8%AA%D9%86%D9%87%D8%B6-%D8%A8%D8%B1%D9%88%D8%A8%D8%A7%D8%BA%D9%86%D8%AF%D8%A7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%AA%D9%85%D9%88%D9%82%D8%B9%D9%87-%D8%B9%D9%84%D9%8A-%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D8%A9.html</guid>
+        <link>http://localhost:4600/%D8%AA%D9%86%D9%87%D8%B6-%D8%A8%D8%B1%D9%88%D8%A8%D8%A7%D8%BA%D9%86%D8%AF%D8%A7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%AA%D9%85%D9%88%D9%82%D8%B9%D9%87-%D8%B9%D9%84%D9%8A-%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D8%A9.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D8%AA%D9%86%D9%87%D8%B6-%D8%A8%D8%B1%D9%88%D8%A8%D8%A7%D8%BA%D9%86%D8%AF%D8%A7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%AA%D9%85%D9%88%D9%82%D8%B9%D9%87-%D8%B9%D9%84%D9%8A-%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D8%A9.html</guid>
         
         
       </item>
@@ -148,8 +150,8 @@
 &lt;p&gt;عبد اللطيف مشبال&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Jun 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D9%88%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A8%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D9%88%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A8%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7.html</guid>
+        <link>http://localhost:4600/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D9%88%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A8%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D9%88%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A8%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7.html</guid>
         
         
       </item>
@@ -195,8 +197,8 @@
 &lt;p&gt;عبد اللطيف مشبال&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 May 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%84%D8%A7%D9%95%D8%B5%D9%84%D8%A7%D8%AD-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B7%D8%B9%D9%86-%D8%A8%D8%A7%D9%84%D9%86%D9%82%D8%B6.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%84%D8%A7%D9%95%D8%B5%D9%84%D8%A7%D8%AD-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B7%D8%B9%D9%86-%D8%A8%D8%A7%D9%84%D9%86%D9%82%D8%B6.html</guid>
+        <link>http://localhost:4600/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%84%D8%A7%D9%95%D8%B5%D9%84%D8%A7%D8%AD-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B7%D8%B9%D9%86-%D8%A8%D8%A7%D9%84%D9%86%D9%82%D8%B6.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%84%D8%A7%D9%95%D8%B5%D9%84%D8%A7%D8%AD-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B7%D8%B9%D9%86-%D8%A8%D8%A7%D9%84%D9%86%D9%82%D8%B6.html</guid>
         
         
       </item>
@@ -228,8 +230,8 @@
 &lt;p&gt;عبد اللطيف مشبال&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%88%D8%B9%D8%A8%D9%88%D8%B1%D9%87-%D9%84%D9%84%D9%82%D8%A7%D8%B1%D8%A7%D8%AA.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%88%D8%B9%D8%A8%D9%88%D8%B1%D9%87-%D9%84%D9%84%D9%82%D8%A7%D8%B1%D8%A7%D8%AA.html</guid>
+        <link>http://localhost:4600/%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%88%D8%B9%D8%A8%D9%88%D8%B1%D9%87-%D9%84%D9%84%D9%82%D8%A7%D8%B1%D8%A7%D8%AA.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%88%D8%B9%D8%A8%D9%88%D8%B1%D9%87-%D9%84%D9%84%D9%82%D8%A7%D8%B1%D8%A7%D8%AA.html</guid>
         
         
       </item>
@@ -249,8 +251,8 @@
 &lt;p&gt;ويقينا فان الأحداث الاخيرة بغزة وما صاحبتها من قتل إجرامي ومجاني للفلسطينيين العزل ، ورغم فداحة هذا المصاب الجلل، فان مؤداه اعادة البوصلة الي مسارها الصحيح، اي في مواجهة العدو الحقيقي وهو الدولة الصهيونية.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 May 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D9%85%D8%B3%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D9%84%D8%BA-%D9%81%D8%AC%D8%A7%D8%A9-360-%D9%83%D9%84%D9%85%D8%AA%D8%B1-%D9%85%D8%B1%D8%A8%D8%B9.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D9%85%D8%B3%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D9%84%D8%BA-%D9%81%D8%AC%D8%A7%D8%A9-360-%D9%83%D9%84%D9%85%D8%AA%D8%B1-%D9%85%D8%B1%D8%A8%D8%B9.html</guid>
+        <link>http://localhost:4600/%D9%85%D8%B3%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D9%84%D8%BA-%D9%81%D8%AC%D8%A7%D8%A9-360-%D9%83%D9%84%D9%85%D8%AA%D8%B1-%D9%85%D8%B1%D8%A8%D8%B9.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D9%85%D8%B3%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D9%84%D8%BA-%D9%81%D8%AC%D8%A7%D8%A9-360-%D9%83%D9%84%D9%85%D8%AA%D8%B1-%D9%85%D8%B1%D8%A8%D8%B9.html</guid>
         
         
       </item>
@@ -278,8 +280,8 @@
 يتجلي بالرجوع الي المذكرة المدلي بها ابتدائيا من الطاعن انها تضمنت انتقادا للخبرة، وملتمسا بإجراء خبرة تكميلية علي يد نفس الخبير والتقيد بالحكم التمهيدي الصادر، وهو ما أكد عليه مقال الاستئناف، الامر الذي يعني ان هناك تحريفا لمضمون دفوع الطاعن، وهو امر بالغ الخطورة كما لا يخفي ، وينهض هذا العيب كوسيلة مجدية للطعن بالنقض.&lt;/p&gt;
 </description>
         <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D9%81%D8%AF%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%A7%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%83%D8%AA%D8%B3%D9%8A%D9%87%D8%A7-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D9%86%D8%B8%D8%B1%D8%A7-%D9%84%D8%B2%D9%8A%D8%BA%D9%87%D8%A7-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD-%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D9%81%D8%AF%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%A7%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%83%D8%AA%D8%B3%D9%8A%D9%87%D8%A7-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D9%86%D8%B8%D8%B1%D8%A7-%D9%84%D8%B2%D9%8A%D8%BA%D9%87%D8%A7-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD-%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.html</guid>
+        <link>http://localhost:4600/%D9%81%D8%AF%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%A7%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%83%D8%AA%D8%B3%D9%8A%D9%87%D8%A7-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D9%86%D8%B8%D8%B1%D8%A7-%D9%84%D8%B2%D9%8A%D8%BA%D9%87%D8%A7-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD-%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D9%81%D8%AF%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%A7%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%83%D8%AA%D8%B3%D9%8A%D9%87%D8%A7-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D9%86%D8%B8%D8%B1%D8%A7-%D9%84%D8%B2%D9%8A%D8%BA%D9%87%D8%A7-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD-%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.html</guid>
         
         
       </item>
@@ -302,8 +304,8 @@
 &lt;p&gt;يبدو من خلال ما سلف ذكره ومن سياق الحركة الاجتماعية المقاطعة لصنف محدد من المنتجات ، انه قد آن الاوان ان تنتظم  فعاليات المجتمع المدني المنخرطة في هذه الحركة في إطار واسع لتفعيل الاليات الدستورية والقانونية المنوه بها سالفا، متسلحة بالاحترافية والمهنية لفرض سياسة عمومية تحارب الاحتكار، حتي  يحتل هذا المجتمع النشيط مكانة مرموقة تتعدي النطاق التقليدي الممارس في صناديق انتخابية لم تفرز منتخبين في مستوي تطلعات الناخبين، وتساهم في خلق آفاق جدية لعدالة اجتماعية مستحقة، بالقضاء علي الفقر والهشاشة وتقليص الفوارق الاجتماعية.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Apr 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7%D8%AA-%D9%84%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D8%AF%D9%88%D8%B1%D9%87-%D9%88%D9%81%D9%82-%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1.html</link>
-        <guid isPermaLink="true">http://localhost:4500/%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7%D8%AA-%D9%84%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D8%AF%D9%88%D8%B1%D9%87-%D9%88%D9%81%D9%82-%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1.html</guid>
+        <link>http://localhost:4600/%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7%D8%AA-%D9%84%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D8%AF%D9%88%D8%B1%D9%87-%D9%88%D9%81%D9%82-%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1.html</link>
+        <guid isPermaLink="true">http://localhost:4600/%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7%D8%AA-%D9%84%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D8%AF%D9%88%D8%B1%D9%87-%D9%88%D9%81%D9%82-%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1.html</guid>
         
         
       </item>
