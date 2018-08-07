@@ -12,7 +12,7 @@ collections:
 
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-123520883-1"
 
 # Build settings
 markdown: kramdown
