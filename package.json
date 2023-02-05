@@ -13,7 +13,6 @@
   "dependencies": {
     "@astrojs/prefetch": "^0.1.1",
     "@astrojs/sitemap": "^1.0.0",
-    "@astrojs/svelte": "^2.0.0",
     "astro": "^2.0.0",
     "astro-purgecss": "^2.0.0"
   }
