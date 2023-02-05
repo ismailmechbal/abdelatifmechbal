@@ -1,0 +1,107 @@
+---
+export interface Props {
+	title: string;
+  description: string;
+  path: string;
+}
+import Header from '../components/layout/Header.astro'
+const {title, description} = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="ar">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<title>{title}</title>
+    <meta name="description" content={description} />
+	</head>
+	<body class="container">
+    <Header />
+		<slot />
+	</body>
+</html>
+
+<style is:global>
+@import url(https://fonts.googleapis.com/earlyaccess/notokufiarabic.css);
+/* Reset  */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
+  margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; box-sizing: border-box;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* End Reset  */
+html {
+  scroll-behavior: smooth;
+}
+body {
+  color: black;
+  font-family: 'Noto Kufi Arabic', sans-serif;;
+  font-size: 16px;
+  direction: rtl;
+  line-height: 28px;
+  margin: 0;
+  text-shadow: none;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  color: #357edd;
+  text-decoration: none;
+}
+.h1 {
+  font-size: 40px;
+  line-height: 55px;
+  padding-bottom: 2rem;
+}
+.text-small {
+  font-size: 14px;
+}
+.ltr {
+  direction: ltr;
+}
+.noto-kufi {
+  font-family: 'Noto Kufi Arabic', sans-serif;;
+}
+button, input, optgroup, select, textarea {
+  font-family: 'Noto Kufi Arabic',sans-serif;
+}
+
+.container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .container {
+    width: 80%;
+  }
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .container {
+    width: 800px;
+  }
+}
+</style>

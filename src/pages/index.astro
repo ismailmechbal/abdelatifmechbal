@@ -1,0 +1,41 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { isoPublishDate, displayPublishDate } from '../lib/date';
+const posts = await Astro.glob("../data/posts/*.md");
+posts.sort((a, b) => Date.parse(b.frontmatter.publishDate) - Date.parse(a.frontmatter.publishDate));
+---
+
+<Layout title="مقالات عبد اللطيف مشبال" description="موقع على الانترنت أشارك فيه بعض مقالاتي" path="/">
+	<main class="home">
+		<div class="h1">مقالات</div>
+		{
+			posts.map((post) => (
+				<article itemscope="" itemtype="http://schema.org/BlogPosting" role="article">
+					<header>
+						<h2 itemprop="name">
+							<a href={post.frontmatter.slug} rel="prefetch" itemprop="url" title={post.frontmatter.title}>{post.frontmatter.title}</a>
+						</h2>
+					</header>
+					<section itemprop="description">
+						<p>{post.frontmatter.description}</p>
+					</section>
+					<div class="text-small published">
+						نشر بتاريخ <span>
+							<time datetime={isoPublishDate(post.frontmatter.publishDate)}>{displayPublishDate	(post.frontmatter.publishDate)}</time>
+						</span>
+					</div>
+				</article>
+			))
+		}
+	</main>
+</Layout>
+
+<style>
+.home article {
+	padding: 2rem 0;
+	border-bottom: 1px solid #eee;
+}
+.home .published {
+	padding-top: 1rem;
+}
+</style>

@@ -1,0 +1,56 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { isoPublishDate, displayPublishDate } from '../lib/date';
+
+export async function getStaticPaths() {
+  const posts = await Astro.glob("../data/posts/*.md");
+	return posts.map((post) => ({
+		params: { slug: post.frontmatter.slug },
+		props: { postData: post },
+	}));
+}
+// const { slug } = Astro.params;
+const { postData } = Astro.props;
+const { Content, frontmatter } = postData;
+---
+
+<Layout title={postData && postData.frontmatter.title.toString()} description={postData && postData.frontmatter.description.substring(0,255)} path={postData && postData.frontmatter.slug}>
+	<main class="post">
+		{postData && (
+      <article>
+        <h1 class="h1">{frontmatter.title}</h1>
+        <div class="f7 f6-ns dib">
+          نشر بتاريخ <span class="ph1">
+            <time datetime={isoPublishDate(frontmatter.publishDate)}>{displayPublishDate	(frontmatter.publishDate)}</time>
+          </span>
+        </div>
+        <Content />
+        <div class="author">عبد اللطيف مشبال</div>
+        <div class="share">
+          <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.abdelatifmechbal.com/${frontmatter.slug}`} title="شارك على الفيس بوك">شارك على الفيس بوك</a>
+          <a href={`https://twitter.com/intent/tweet?url=https://www.abdelatifmechbal.com/${frontmatter.slug}&text=${frontmatter.title}`} target="_blank">شارك على تويتر</a>
+        </div>
+        <a href="/" title="الرجوع إلى جميع المقالات" class="db link blue dim f7 f5-ns">← الرجوع إلى جميع المقالات</a>
+      </article>
+    )}
+	</main>
+</Layout>
+
+<style>
+  .post article {
+    padding: 2rem 0;
+    border-bottom: 1px solid #eee;
+  }
+  .post .published {
+    padding-top: 1rem;
+  }
+  .post .author {
+    padding-top: 1rem;
+  }
+  .post .share {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 2rem 0;
+  }
+  </style>
